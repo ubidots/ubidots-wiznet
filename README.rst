@@ -164,19 +164,3 @@ Check out other cool projects using Ubidots:
 * `Arduino Wifly Shield <http://ubidots.com/docs/devices/wifly.html>`_
 * `Dragino IoT Gateway <http://ubidots.com/docs/devices/Dragino.html>`_
     
-Do you have more project ideas? Create a Ubidots account and make them happen!
-
-.. raw:: html
-
-    <!--HubSpot Call-to-Action Code -->
-    <span class="hs-cta-wrapper" id="hs-cta-wrapper-4d061d77-8df2-4af7-9195-0e3a4fbfe2a1">
-        <span class="hs-cta-node hs-cta-4d061d77-8df2-4af7-9195-0e3a4fbfe2a1" id="hs-cta-4d061d77-8df2-4af7-9195-0e3a4fbfe2a1">
-            <!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]-->
-            <a href="http://cta-redirect.hubspot.com/cta/redirect/329717/4d061d77-8df2-4af7-9195-0e3a4fbfe2a1"><img class="hs-cta-img" id="hs-cta-img-4d061d77-8df2-4af7-9195-0e3a4fbfe2a1" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/329717/4d061d77-8df2-4af7-9195-0e3a4fbfe2a1.png" /></a>
-        </span>
-        <script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script>
-            <script type="text/javascript">
-                hbspt.cta.load(329717, '4d061d77-8df2-4af7-9195-0e3a4fbfe2a1');
-            </script>
-    </span>
-    <!-- end HubSpot Call-to-Action Code -->
