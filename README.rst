@@ -13,14 +13,14 @@ Components
 ^^^^^^^^^^
 *	`WIZnet WizFi 250 shield <http://www.seeedstudio.com/depot/Wifi-Shield-Fi250-p-1719.html>`_:
 
-.. figure:: /_static/devices/wifishield-Fi250_03.jpg
+.. figure:: https://github.com/ubidots/ubidots-wiznet/blob/master/pictures/wifishield-Fi250_03.jpg
     :name: wizfi250
     :align: center
     :alt: wizfi250
 
 * `Arduino uno <http://arduino.cc/en/Main/ArduinoBoardUno>`_
 
-.. figure:: /_static/devices/arduino-uno.png
+.. figure:: https://github.com/ubidots/ubidots-wiznet/blob/master/pictures/arduino-uno.png
     :name: arduino-uno
     :align: center
     :alt: arduino-uno
