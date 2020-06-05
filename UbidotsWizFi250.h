@@ -8,7 +8,7 @@
 #include <Arduino.h>
 #include <SoftwareSerial.h>
 
-#define SERVER "50.23.124.68"
+#define SERVER "169.55.61.243"
 #define  REMOTE_PORT    "80"
 
 #define TX 2
